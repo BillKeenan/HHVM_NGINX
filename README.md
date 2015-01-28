@@ -18,5 +18,5 @@ vagrant ssh
 
 Project files are then in /sync/
 
-[http://hhvm.com](HHVM SITE)
-[http://nginx.org](NGINX SITE)
+[HHVM](http://hhvm.com)
+[NGINX](http://nginx.org)

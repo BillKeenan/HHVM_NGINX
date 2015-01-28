@@ -2,6 +2,8 @@
 
 A basic bootstrap for getting these things installed.
 
+This is using Ubuntu 14.04
+
 ```
 git clone https://github.com/BillKeenan/HHVM_NGINX.git
 cd HHVM_NGINX
